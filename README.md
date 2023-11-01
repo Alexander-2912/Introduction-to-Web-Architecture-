@@ -6,7 +6,7 @@ Website Simple Twitter memungkinkan pengguna untuk berinteraksi dan berbagi info
 Website "Simple Twitter" telah dikembangkan menggunakan Flask untuk backend-nya, sedangkan Vue.js digunakan sebagai kerangka kerja frontend-nya. Teknologi lain yang terlibat dalam pembuatan situs ini termasuk Axios untuk manajemen permintaan HTTP, Pinia untuk pengelolaan state, dan Datatable untuk tampilan data terstruktur. Tujuan utama dari proyek ini adalah menciptakan sebuah platform yang menyerupai Twitter beserta fitur-fiturnya. Melalui pendekatan teknologi seperti Flask dan Vue.js membuat backend yang responsif dan dapat diandalkan, serta tampilan frontend yang dinamis dan ramah pengguna. Integrasi dengan berbagai teknologi ini bertujuan agar pengalaman pengguna menjadi lengkap, memungkinkan mereka untuk mulai menggunakan platform "Simple Twitter" tanpa hambatan teknis yang signifikan.
 
 ## Flowchart
-![Blank diagram](https://github.com/Alexander-2912/Introduction-to-Web-Architecture/assets/118685091/6408f9e5-b75c-4646-9b90-95b86af112ed)
+[Blank diagram.pdf](https://github.com/Alexander-2912/Introduction-to-Web-Architecture-/files/13228313/Blank.diagram.pdf)
 Langkah-langkah flowchart:
 1. User masuk ke halaman login
 2. Apakah user sudah punya akun?
